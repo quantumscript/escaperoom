@@ -1,0 +1,6 @@
+// Executables
+/adventure
+/buildrooms
+
+// Rooms directory produced by ./buildrooms
+rooms_*/
